@@ -10,7 +10,8 @@ Welcome, I’m Lucas! Here you’ll meet my development projects. Enjoy!
 
 ###
 
-<img width="3000" height="2000" alt="Kotlin_(programming_language)-Logo wine" src="https://github.com/user-attachments/assets/120bf434-53eb-40f3-9f30-a740b30f1ed2" /> <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin (Programming Language) Logo"/>
+<img width="12" />
 
 <!--
 **lucassacrament0/lucassacrament0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
